@@ -3,4 +3,4 @@ This is a VR-Based project that focuses on proposing a virtual reality solution 
 # Where is the code sample?
 The code samples that I wanted to show are located in Sattva_VR > Assets > Scripts
 
-They are some c# scripts that are attached to different components in the scenes to perform different tasks.
+These codes are in the form of c# scripts that are attached to different components in the scenes to perform different tasks.
