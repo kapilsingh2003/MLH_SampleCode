@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Demo.unity
+    guid: 2b02c29601fc84e49a18fde7fed33f95
+  - enabled: 1
+    path: Assets/Scenes/himalayas.unity
+    guid: 25d720987a0ee7c4b937d5af4a841691
+  - enabled: 1
+    path: Assets/Scenes/beach.unity
+    guid: 8ecb70416f660d945922f5871bd8360a
+  - enabled: 1
+    path: Assets/Scenes/opensky.unity
+    guid: 0a086d7288ad58e4d80c69801b348077
+  - enabled: 1
+    path: Assets/Scenes/Acrophobia.unity
+    guid: e104bc4c46cbea74f915864a6e60d7a8
+  - enabled: 1
+    path: Assets/Scenes/IndiaGate.unity
+    guid: ee629b1bbeb00c94cb91878bfd23cbc6
+  - enabled: 1
+    path: Assets/Scenes/TajMahal.unity
+    guid: 4396c38a112a74249bd973485e51181f
+  - enabled: 1
+    path: Assets/Scenes/trekking.unity
+    guid: 9440179511d2c4f4e850578fad992726
+  - enabled: 1
+    path: Assets/Scenes/Lizard_1.unity
+    guid: 1488040f966aad544bb6f4e5eebe4cab
+  - enabled: 1
+    path: Assets/Scenes/Lizard_2.unity
+    guid: c8a51312a4423d04b8f12cb0d2bca906
+  - enabled: 1
+    path: Assets/Scenes/Lizard_3.unity
+    guid: 036287a8450e8e2498823d354d2409ec
+  - enabled: 1
+    path: Assets/Scenes/Lizard_0.unity
+    guid: f386d7cf6cc344d48b5569124f8488e3
+  - enabled: 1
+    path: Assets/Scenes/terrain.unity
+    guid: 5806c71d123430c43879f6d3c7903483
+  - enabled: 1
+    path: Assets/Scenes/Nycto_0.unity
+    guid: d809a35c2237a1a4387094415e85b841
+  - enabled: 1
+    path: Assets/Scenes/Nycto_l1.unity
+    guid: 487c68ede504af243b55e0e73bb82161
+  - enabled: 1
+    path: Assets/Scenes/Nycto_l2.unity
+    guid: 12f6accab27dbad419c9a915b2c6e394
+  - enabled: 1
+    path: Assets/Scenes/acrophobia_1.unity
+    guid: c0b1215e34271a045a224faf7e66e985
+  - enabled: 1
+    path: Assets/Scenes/Claustro_0.unity
+    guid: 84d19bb57322c1148a93df97660919de
+  m_configObjects: {}
